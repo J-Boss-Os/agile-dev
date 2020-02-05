@@ -1,5 +1,3 @@
-[2020_02_05_new_badge]: https://img.shields.io/static/v1?label=2020-02-05&message=new&color=red
-
 # @agile-dev/reg-verify
 帮助开发者在开发过程中快速的做一些验证判断使用的工具类库。
 
@@ -61,11 +59,11 @@ if(verify_life.isChinePhone('xxxxx')){
 + [x] isNumber 是否是数字
 + [x] isIp 是否是正确的IP
 + [x] isFax 是否是正确的传真号
-+ [x] isChinaPhone 是否是正确的中国手机号码（11位）![2020_02_05_new_badge]([2020_02_05_new_badge])
++ [x] isChinaPhone 是否是正确的中国手机号码（11位）
 + [x] isUrl 是否是正确的url网址
-+ [x] isAllVehicleNumber 是否是正确的车牌号（燃油车牌号 or 新能源车牌号）![2020_02_05_new_badge]([2020_02_05_new_badge])
-+ [x] isFuelVehicleNumber 是否是燃油车牌号 ![2020_02_05_new_badge]([2020_02_05_new_badge])
-+ [x] isNewEnergyVehicleNumber 是否是新能源车牌号 ![2020_02_05_new_badge]([2020_02_05_new_badge])
++ [x] isAllVehicleNumber 是否是正确的车牌号（燃油车牌号 or 新能源车牌号）
++ [x] isFuelVehicleNumber 是否是燃油车牌号 
++ [x] isNewEnergyVehicleNumber 是否是新能源车牌号 
 + [x] isInt 是否是整数
 + [x] isFloat 是否是浮点数
 + [x] isEnglish 是否英文
@@ -75,13 +73,13 @@ if(verify_life.isChinePhone('xxxxx')){
 + [x] isIDCard 是否是正确的身份证
 + [x] isPercent 是否是正确的百分数
 + [x] isSpace 是否包含空格
-+ [x] isBeforeSpace 是否开头空格 ![2020_02_05_new_badge]([2020_02_05_new_badge])
-+ [x] isAfterSpace 是否末尾空格 ![2020_02_05_new_badge]([2020_02_05_new_badge])
-+ [x] isChinaPostalCode 是否是中国的邮政编码 ![2020_02_05_new_badge]([2020_02_05_new_badge])
++ [x] isBeforeSpace 是否开头空格 
++ [x] isAfterSpace 是否末尾空格 
++ [x] isChinaPostalCode 是否是中国的邮政编码 
 
 ---
 ## 物流快递单号 
-![2020_02_05_new_badge]([2020_02_05_new_badge])
+![2020_02_05_new_badge](https://img.shields.io/static/v1?label=2020-02-05&message=new&color=red)
 + [x] isZJSOrderId 宅急送
 + [x] isSFOrderId 顺丰速运
 + [x] isSTOOrderId 申通快递
