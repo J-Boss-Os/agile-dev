@@ -77,9 +77,10 @@ if(verify_life.isChinePhone('xxxxx')){
 + [x] isAfterSpace 是否末尾空格 
 + [x] isChinaPostalCode 是否是中国的邮政编码 
 
+更新时间：2020-02-05
 ---
 ## 物流快递单号 
-![2020_02_05_new_badge](https://img.shields.io/static/v1?label=2020-02-05&message=new&color=red)
+
 + [x] isZJSOrderId 宅急送
 + [x] isSFOrderId 顺丰速运
 + [x] isSTOOrderId 申通快递
@@ -116,8 +117,4 @@ if(verify_life.isChinePhone('xxxxx')){
 + [x] isGDEMSOrderId 广东EMS
 + [x] isQRTOrderId 增益速递
 
-更新时间：2020/02/03 21:27
-
-更新时间：2020/02/03 22:00  （优化代码）
-
-更新时间：2020/02/05 22:00  （优化代码架构，新增快递号判断）
+更新时间：2020-02-05
