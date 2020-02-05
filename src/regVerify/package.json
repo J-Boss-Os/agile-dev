@@ -1,0 +1,14 @@
+{
+  "name": "@digimon-os/reg-verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "jest -c -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
