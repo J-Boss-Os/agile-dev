@@ -20,6 +20,6 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "@digimon-os/reg-verify": "^1.0.0"
+    "@agile-dev/reg-verify": "^1.0.0"
   }
 }
